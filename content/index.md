@@ -9,15 +9,17 @@ description: No Bullshit Wellbeing Discipline
 
 ## Motivation
 
-There is a lot of wellbeing slope on the Internet. Everyone is trying to convince you that using their technique you will become 3000% more productive and will be able to perform 30 tasks per milliseconds. You are going to be the most productive person ever. No one seems to actually care about _well_ being. Phronology does.
+There are a lot of wellbeing slope on the Internet. Everyone is trying to convince you that using their technique you will become 3000% more productive and will be able to perform 30 tasks per milliseconds. You are going to be the most productive person ever. No one seems to actually care about _well_ being. Phronology does.
 
 ## Backed by Science
 
 The main driver for frustration in the modern days is a present from our ancestors. Specifically, two competing systems made for different goals: **reactionary system** and **conscious system**. We will not going to dive deep in biology but instead suggest a simplifid model that may be used without special prior knowledge.
 
-That creates an eternal problem. You see, reactionary system is ancient. It appeared long before conscious system. And it actually is still dominant, kind of. You can try to do whatever you want, but you will never be able to suppress this system. It will always win. Either by direct impulse, or by masking their desires as desires of the conscious system.
+In short, **reactionary system** is an ancient system that is fast, instinctual, seeks safely and pleasure. On the other hand, **conscious system** is a modern system that is slow, logical, plans in the future.
 
-Phronology is a set of rules that you can apply in your life to understand how to live with that conflict and be happy. A specific set of guides is listed at [[The Phronology Manifesto]].
+And that creates an eternal problem. You see, reactionary system is ancient. It appeared long before conscious system. And it is actually still dominant, kind of. You can try to do whatever you want, but you will never be able to suppress this system. It will always win in the long run. Either by direct impulse, or by masking their desires as desires of the conscious system.
+
+Phronology is built around this conflict. A set of specific guides is applied not to suppress the reactionary system, but to understand it and synergize with it. [[The Phronology Manifesto]] explains in details the right approach to solving that problem.
 
 ## Non-goals
 
