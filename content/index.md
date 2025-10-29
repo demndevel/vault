@@ -1,7 +1,7 @@
 ---
 title: Phronology
 description: No Bullshit Wellbeing Discipline
-tags: language/english
+tags: lang/en
 ---
 
 # Phronology

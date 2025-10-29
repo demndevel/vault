@@ -1,7 +1,7 @@
 ---
 title: Фронология
 description: Про продуктивность без херни
-tags: language/russian
+tags: lang/ru
 ---
 
 # Фронология
