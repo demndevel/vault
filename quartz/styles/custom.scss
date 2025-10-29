@@ -5,7 +5,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("/static/webfonts/iosevka-latin-400-italic.woff2") format("woff2"), url("/static/webfonts/iosevka-latin-400-italic.woff") format("woff");
+    src: url("/static/webfonts/iosevka-latin-400-normal.woff2") format("woff2"), url("/static/webfonts/iosevka-latin-400-normal.woff") format("woff");
 }
 
 @font-face {
@@ -13,5 +13,5 @@
     font-style: bold;
     font-weight: 700;
     font-display: swap;
-    src: url("/static/webfonts/iosevka-latin-700-italic.woff2") format("woff2"), url("/static/webfonts/iosevka-latin-700-italic.woff") format("woff");
+    src: url("/static/webfonts/iosevka-latin-700-normal.woff2") format("woff2"), url("/static/webfonts/iosevka-latin-700-normal.woff") format("woff");
 }
