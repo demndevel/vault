@@ -8,9 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "GitHub": "https://github.com/y9san9/public-vault",
-      "Telegram": "https://t.me/y9san9",
-      "Email": "mailto:y9san9@gmail.com",
+      "GitHub": "https://github.com/phronology-social/vault",
     },
   }),
 }
@@ -61,13 +59,13 @@ export const defaultContentPageLayout: PageLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'y9san9/public-vault',
+        repo: 'phronology-social/vault',
         // from data-repo-id
-        repoId: 'R_kgDOM15F1A',
+        repoId: 'R_kgDOQLawxw',
         // from data-category
         category: 'Announcements',
         // from data-category-id
-        categoryId: 'DIC_kwDOM15F1M4CivVq',
+        categoryId: 'DIC_kwDOQLawx84CxNsU',
       }
     }),
   ],
