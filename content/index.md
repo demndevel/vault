@@ -1,6 +1,7 @@
 ---
 title: Phronology
 description: No Bullshit Wellbeing Discipline
+tags: language/english
 ---
 
 # Phronology
@@ -34,3 +35,11 @@ Phronology is built around this conflict. A set of specific guides is applied no
 We have a Discord Server for people who want to live more conscious and happy life. People often are more motivated to do something in a group. That is the way universities, libraries, workplaces create this special environment that is beneficial for some people.
 
 You can join using this link: https://discord.gg/kY35f5hYYX
+
+## Supported Languages
+
+Read about Phronology in other languages:
+
+- [[ru|Russian]]
+
+Feel free to contribute.
