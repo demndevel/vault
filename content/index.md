@@ -40,6 +40,6 @@ You can join using this link: https://discord.gg/kY35f5hYYX
 
 Read about Phronology in other languages:
 
-- [[ru|Russian]]
+- [[index-ru|Russian]]
 
 Feel free to contribute.

@@ -36,7 +36,6 @@ tags: lang/ru
 
 Присоединиться можно по ссылке: https://discord.gg/kY35f5hYYX
 
----
-
-[[index|English]]
+> [!info] На других языках
+> [[index|English]]
 
