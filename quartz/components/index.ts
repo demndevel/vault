@@ -23,6 +23,16 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import '@fontsource/iosevka';
+// import '@fontsource/iosevka/100.css';
+// import '@fontsource/iosevka/200.css';
+// import '@fontsource/iosevka/300.css';
+// import '@fontsource/iosevka/400.css';
+// import '@fontsource/iosevka/500.css';
+// import '@fontsource/iosevka/600.css';
+// import '@fontsource/iosevka/700.css';
+// import '@fontsource/iosevka/800.css';
+// import '@fontsource/iosevka/900.css';
 
 export {
   ArticleTitle,
