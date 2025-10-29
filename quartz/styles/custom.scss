@@ -1,9 +1,17 @@
 @use "./base.scss";
 
 @font-face {
-  font-family: 'Iosevka';
-  font-style: normal;
-  font-display: swap;
-  font-weight: 400;
-  src: url(@fontsource/iosevka/files/iosevka-latin-400-normal.woff2) format('woff2'), url(@fontsource/iosevka/files/iosevka-latin-400-normal.woff) format('woff');
+    font-family: "Iosevka";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/static/webfonts/iosevka-latin-400-italic.woff2") format("woff2"), url("/static/webfonts/iosevka-latin-400-italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Iosevka";
+    font-style: bold;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/static/webfonts/iosevka-latin-700-italic.woff2") format("woff2"), url("/static/webfonts/iosevka-latin-700-italic.woff") format("woff");
 }
