@@ -1,5 +1,5 @@
 ---
-aliases:
+title:
   - The Phronology Manifesto
 description: A Discipline of Conscious Self
 tags:
