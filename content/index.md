@@ -3,7 +3,6 @@ title: Phronology
 description: No Bullshit Wellbeing Discipline
 tags: lang/en
 ---
-
 # Phronology
 
 > No Bullshit Wellbeing Discpline
