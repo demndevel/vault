@@ -2,6 +2,8 @@
 aliases:
   - The Phronology Manifesto
 description: A Discipline of Conscious Self
+tags:
+  - lang/en
 ---
 # The Phronology Manifesto
 

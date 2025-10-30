@@ -19,7 +19,7 @@ In short, **reactionary system** is an ancient system that is fast, instinctual,
 
 And that creates an eternal problem. You see, reactionary system is ancient. It appeared long before conscious system. And it is actually still dominant, kind of. You can try to do whatever you want, but you will never be able to suppress this system. It will always win in the long run. Either by direct impulse, or by masking their desires as desires of the conscious system.
 
-Phronology is built around this conflict. A set of specific guides is applied not to suppress the reactionary system, but to understand it and synergize with it. [[The Phronology Manifesto]] explains in details the right approach to solving that problem.
+Phronology is built around this conflict. A set of specific guides is applied not to suppress the reactionary system, but to understand it and synergize with it. [[the-phronology-manifesto|The Phronology Manifesto]] explains in details the right approach to solving that problem.
 
 ## Non-goals
 
