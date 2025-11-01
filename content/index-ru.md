@@ -1,7 +1,9 @@
 ---
 title: Фронология
 description: Про осознанность без херни
-tags: lang/ru
+tags:
+  - lang/ru
+  - core
 ---
 # Фронология
 

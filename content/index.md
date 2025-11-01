@@ -1,7 +1,9 @@
 ---
 title: Phronology
 description: No Bullshit Wellbeing Discipline
-tags: lang/en
+tags:
+  - lang/en
+  - core
 ---
 # Phronology
 
@@ -13,13 +15,13 @@ There are a lot of wellbeing slope on the Internet. Everyone is trying to convin
 
 ## Backed by Science
 
-The main driver for frustration in the modern days is a present from our ancestors. Specifically, two competing systems made for different goals: **reactionary system** and **conscious system**. We will not going to dive deep in biology but instead suggest a simplifid model that may be used without special prior knowledge.
+The main driver for frustration in the modern days is a present from our ancestors. Specifically, two competing systems made for different goals: **reactive system** and **conscious system**. We will not going to dive deep in biology but instead suggest a simplifid model that may be used without special prior knowledge.
 
-In short, **reactionary system** is an ancient system that is fast, instinctual, seeks safely and pleasure. On the other hand, **conscious system** is a modern system that is slow, logical, plans in the future.
+In short, **reactive system** is an ancient system that is fast, instinctual, seeks safely and pleasure. On the other hand, **conscious system** is a modern system that is slow, logical, plans in the future.
 
-And that creates an eternal problem. You see, reactionary system is ancient. It appeared long before conscious system. And it is actually still dominant, kind of. You can try to do whatever you want, but you will never be able to suppress this system. It will always win in the long run. Either by direct impulse, or by masking their desires as desires of the conscious system.
+And that creates an eternal problem. You see, reactive system is ancient. It appeared long before conscious system. And it is actually still dominant, kind of. You can try to do whatever you want, but you will never be able to suppress this system. It will always win in the long run. Either by direct impulse, or by masking their desires as desires of the conscious system.
 
-Phronology is built around this conflict. A set of specific guides is applied not to suppress the reactionary system, but to understand it and synergize with it. [[the-phronology-manifesto|The Phronology Manifesto]] explains in details the right approach to solving that problem.
+Phronology is built around this conflict. A set of specific guides is applied not to suppress the reactive system, but to understand it and synergize with it. [[the-phronology-manifesto|The Phronology Manifesto]] explains in details the right approach to solving that problem.
 
 ## Non-goals
 
