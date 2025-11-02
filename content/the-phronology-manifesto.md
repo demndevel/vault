@@ -36,15 +36,15 @@ This process leverages established principles of neuroplasticity through structu
 
 Each day of the week has a Declaration assigned to it. The weekly structure provides a comprehensive rhythm addressing fundamental aspects of self-regulation:
 
-| Day              | Declaration     | Purpose                                                                                                        |
-| :--------------- | :-------------- | :------------------------------------------------------------------------------------------------------------- |
-| [[dychotomy-monday|Dichotomy Monday]] | Acknowledgement | We have two conflicting neural systems                                                                         |
-| Hedone Tuesday                        | Insight         | What are the reasons behind their conflict?                                                                    |
-| Bia Wednesday                         | Force           | How people often solve the conflict in a wrong way?                                                            |
-| Aporia Thursday                       | Stillness       | How to solve the conflict in the right way?                                                                    |
-| Tekton Friday                         | Architecture    | How make a long-lasting transformation?                                                                        |
-| Metron Saturday                       | Proportion      | Do not build yourself a prison. You should always have a measure.                                              |
-| Praxis Sunday                         | The Path        | Failures are just data, don't take them personally. You will never become perfect, but you will become better. |
+| Day                                    | Declaration     | Purpose                                                                                                        |
+| :------------------------------------- | :-------------- | :------------------------------------------------------------------------------------------------------------- |
+| [[dichotomy-monday\|Dichotomy Monday]] | Acknowledgement | We have two conflicting neural systems                                                                         |
+| [[hedone-tuesday\|Hedone Tuesday]]     | Insight         | What are the reasons behind their conflict?                                                                    |
+| [[bia-wednesday\|Bia Wednesday]]       | Force           | How people often solve the conflict in a wrong way?                                                            |
+| [[aporia-thursday\|Aporia Thursday]]   | Stillness       | How to solve the conflict in the right way?                                                                    |
+| [[tekton-friday\|Tekton Friday]]       | Architecture    | How make a long-lasting transformation?                                                                        |
+| [[metron-saturday\|Metron Saturday]]   | Proportion      | Do not build yourself a prison. You should always have a measure.                                              |
+| [[praxis-sunday\|Praxis Sunday]]       | The Path        | Failures are just data, don't take them personally. You will never become perfect, but you will become better. |
 
 ## The Rationale
 
