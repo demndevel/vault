@@ -39,8 +39,7 @@ const graph = Component.Graph({
     linkDistance: 60,
     fontSize: 0.6,
     opacityScale: 3,
-    removeTags: [], // what tags to remove from the graph
-    showTags: true, // whether to show tags in the graph
+    showTags: false, // whether to show tags in the graph
     enableRadial: true, // whether to constrain the graph, similar to Obsidian
   },
 })

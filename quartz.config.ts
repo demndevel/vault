@@ -28,26 +28,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f8f9fa",
+          lightgray: "#e9ecef",
+          gray: "#6c757d",
+          darkgray: "#343a40",
+          dark: "#212529",
+          secondary: "#1864ab",     // Wisdom Blue (Rational mind, clarity, depth)
+          tertiary: "#e67700",      // Energy Orange (Reactive mind, action, vitality)
+          highlight: "rgba(24, 100, 171, 0.06)",
+          textHighlight: "#fff3cd",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0d1b2a",         // Deep navy - perfect for focused reading
+          lightgray: "#1b263b",     // Rich surface contrast
+          gray: "#778da9",          // Muted blue-gray for secondary text
+          darkgray: "#e0e1dd",      // Warm off-white for body text
+          dark: "#f8f9fa",          // Pure white for strong accents
+          secondary: "#339af0",     // Softer, luminous blue
+          tertiary: "#ff922b",      // Warmer, energetic orange
+          highlight: "rgba(51, 154, 240, 0.1)",
+          textHighlight: "#2b1900",
         },
       },
     },
