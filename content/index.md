@@ -37,10 +37,10 @@ We have a Discord Server for people who want to live more conscious and happy li
 
 You can join using this link: https://discord.gg/kY35f5hYYX
 
-## Supported Languages
+## In Other Languages
 
 Read about Phronology in other languages:
 
-- [[index-ru|Russian]]
+- [[index-ru|Русский]]
 
 Feel free to contribute.

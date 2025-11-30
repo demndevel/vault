@@ -2,8 +2,8 @@
 title: The Phronology Manifesto
 description: A Discipline of Conscious Self
 tags:
-  - lang/en
   - "#core"
+  - lang/en
 ---
 # The Phronology Manifesto
 
@@ -24,7 +24,7 @@ This structural dichotomy is not a character flaw but a fundamental aspect of hu
 
 ## The Method: Daily Declaration
 
-The core practice involves daily engagement with a rotating "Declaration"—a precise statement of psychological principle. The mechanism relies on **Demonstrated Engagement**[^3]:
+The core practice involves daily engagement with a rotating "Declaration" – a precise statement of psychological principle. The mechanism relies on **Demonstrated Engagement**[^3]:
 
 1.  The practitioner transcribes the complete text of the day's declaration.
 2.  This practice continues until the principles are fully internalized.
@@ -57,6 +57,9 @@ This methodology operates through established psychological mechanisms:
 The objective is not to eliminate reactive responses but to develop the capacity for conscious modulation. Through consistent practice, one cultivates the ability to navigate the inherent tensions of human cognition with greater intention and less reactivity.
 
 Phronology does not propose to repair a defective system, but rather to develop mastery over the complex, dual-process architecture that characterizes human cognition.
+
+> [!note] In other languages
+> - [[the-phronology-manifesto-ru|Русский]]
 
 [^1]: Shulman, Jessica (2016). The dual systems model: Review, reappraisal, and recommendations. *Developmental Cognitive Neuroscience*, 17. doi:[10.1016/j.dcn.2015.12.010](https://doi.org/10.1016/j.dcn.2015.12.010)
 [^2]: Albert, Dustin & Steinberg, Laurence (2014). Considerations of a Dual-systems Model of Cognitive Development and Risk-taking in the Context of Driving. *Journal of Research on Adolescence*, 24(3), 541-550. doi:[10.1111/jora.12126](https://doi.org/10.1111/jora.12126)
